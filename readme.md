@@ -9,12 +9,8 @@
 ------------
 ###trainning
 
-[google][link_google]
-
-[stackoverflow][link_stack]
-
-[google]: https://www.google.com
-[stack]: https://www.stackoverflow.com
+[link_google](https://www.google.com)
+[link_stack](https://www.stackoverflow.com)
 -------------
 *one*
 _two_
