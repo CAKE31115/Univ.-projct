@@ -10,8 +10,9 @@
 ###trainning
 
 [google][link_google]
+
 [stackoverfolw][link_stack]
 
-[link_google]:www.google.com "google"
-[link_stack]:www.stackoverfolw.com "stack"
+[link_google] : www.google.com "google"
+[link_stack] : www.stackoverfolw.com "stack"
 
