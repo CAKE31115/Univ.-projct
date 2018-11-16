@@ -9,6 +9,9 @@
 ------------
 ###trainning
 
-[google][link_google][link_google]:www.google.com"google"
-[google][link_google][link_google]:www.stackoverfolw.com"stack"
+[google][link_google]
+[stackoverfolw][link_stack]
+
+[link_google]:www.google.com "google"
+[link_stack]:www.stackoverfolw.com "stack"
 
