@@ -11,8 +11,13 @@
 
 [google][link_google]
 
-[stackoverfolw][link_stack]
+[stackoverflow][link_stack]
 
 [link_google]:https://www.google.com
-[link_stack]:ttps://www.stackoverfolw.com
-
+[link_stack]:https://www.stackoverflow.com
+-------------
+*one*
+_two_
+**three**
+__four__
+++five++
