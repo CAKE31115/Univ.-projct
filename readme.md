@@ -13,6 +13,6 @@
 
 [stackoverfolw][link_stack]
 
-[link_google] : www.google.com "google"
-[link_stack] : www.stackoverfolw.com "stack"
+[link_google]:https://www.google.com
+[link_stack]:ttps://www.stackoverfolw.com
 
