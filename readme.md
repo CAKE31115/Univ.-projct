@@ -13,8 +13,8 @@
 
 [stackoverflow][link_stack]
 
-[link_google]: https://www.google.com
-[link_stack]: https://www.stackoverflow.com
+[google]: https://www.google.com
+[stack]: https://www.stackoverflow.com
 -------------
 *one*
 _two_
