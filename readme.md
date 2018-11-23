@@ -1,16 +1,18 @@
 #Résumé
 =============
 >name : Name
+
 >Univ.name : uni
 ------------
 ###Subject
 
-*about open source
-------------
+*about open source and Linux
+-------------
 ###trainning
 
-[link_google](https://www.google.com)
-[link_stack](https://www.stackoverflow.com)
+[google](https://www.google.com)
+
+[stackoverflow](https://www.stackoverflow.com)
 -------------
 *one*
 _two_
